@@ -1,3 +1,6 @@
+![Part of the Udacity Front-End Web Development Nanodegree](https://img.shields.io/badge/Udacity-Front--End%20Web%20Developer%20Nanodegree-02b3e4.svg)
+> Developed for project 1 of 6 as part of the **Udacity Front-End Web Developer Nanodegree**.
+
 # Fresh Tomato.es - v0.1
 
 Welcome to Fresh Tomato.es! With this program you can easily generate a list of your favorite movie trailers, and add or edit your own. The code is meant to be easy to understand, and very customizeable.
