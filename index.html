@@ -15,7 +15,7 @@
     rel="stylesheet">
     <!-- Favicon for the browser tab  -->
     <link rel="icon" href="images/favicon.png">
-    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
     <script src="
     https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js">
     </script>
@@ -122,7 +122,7 @@
         // Start playing the video whenever the trailer modal is opened
         $(document).on('click', '.movie-tile', function (event) {
             var trailerYouTubeId = $(this).attr('data-trailer-youtube-id')
-            var sourceUrl = 'http://www.youtube.com/embed/'
+            var sourceUrl = 'https://www.youtube.com/embed/'
             + trailerYouTubeId + '?autoplay=1&html5=1';
             $("#trailer-video-container").empty().append($("<iframe></iframe>",
             {
